@@ -1,0 +1,5 @@
+flask
+flask_login
+ibm_db
+Footer
+© 2022 GitHub, Inc.
