@@ -49,4 +49,8 @@ OVERVIEW:
        -Whenever the agent is assigned to a customer they will be notified with an email alert.
        
        -Customers can view the status of the ticket till the service is provided.
+
+TECHNICAL ARCHITECTURE:
+![TA](https://user-images.githubusercontent.com/102901939/202674487-ac187919-f942-4414-9a2c-b0ecb17c7a96.png)
+
        
