@@ -1,12 +1,17 @@
 # IBM-Project-15439-1659598604
-Customer Care Registry
+                                                                  CUSTOMER CARE REGISTRY
 TEAM ID-PNT2022TMID30375
+
         TEAM LEAD:G.PRIYADHARSHINI
+        
         TEAM M1  :S.PAVYASRI
+        
         TEAM M2  :S.PRIYALATHA
+        
         TEAM M3  :N.VISHNUPRIYA
         
 BASIC DETAILS:
+
 Query   	     -   Reply
 Project Title	 -   CUSTOMER CARE REGISTRY  
 Project Domain	-  Cloud Application Development  
